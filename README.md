@@ -1,13 +1,8 @@
-# Web Starter
+# Lyrics for Creedence Clearwater Revival's *Have you ever seen the rain?* 
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/web-starter)
+>Have you ever seen the rain?
 
+## Citations
+* [Genius] https://genius.com/Creedence-clearwater-revival-have-you-ever-seen-the-rain-lyrics
+* [Fonts] https://fonts.google.com/
 
-> Computers are dumb. Humans make them smart.
-
-Starter (boilerplate) for all future projects.
-
-## Why Does This Exist?
-* Don't with blank files
-* Common boilerplate for web projects
-* I am a human being who makes mistakes
